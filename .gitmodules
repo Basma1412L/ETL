@@ -1,0 +1,6 @@
+[submodule "Webscrapper"]
+	path = Webscrapper
+	url = https://github.com/Basma1412L/WebScrapper
+[submodule "DataLoader"]
+	path = DataLoader
+	url = https://github.com/Basma1412L/DataLoader
